@@ -1842,7 +1842,7 @@
                 "title": "Switch to \"<b>Welcome</b>\"",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Switch the view to “Welcome” by tapping its name on Surface Pad. You may now use this group of the devices to run the experience.<br>",
+                "text": "Switch the view to “<b>Welcome</b>” by tapping its name on Surface Pad. You may now use this device to run experience.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -1859,7 +1859,7 @@
                 "title": "Ready to go",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Device is ready to use. Connect other devices by repeating the steps.<br>",
+                "text": "Connect other devices by repeating the steps.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -2148,7 +2148,7 @@
                 "title": "Switch the view to \"<b>Positioning</b>\"",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Make sure that \"Voice &amp; Getures\" are turned on for the device that you wearing",
+                "text": "Make sure that<b> \"Voice &amp; Getures\" are turned on </b>for the device that you wearing",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -2201,7 +2201,7 @@
                 "title": "Switch View to \"Welcome\"",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Don't forget to turn off \"Voice &amp; Gestures\". Repeat on all the devices that need adjustment.",
+                "text": "Don't forget to<b> turn off \"Voice &amp; Gestures\"</b>. <br>Repeat on all the devices that need adjustment.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.5"
               }
