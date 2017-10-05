@@ -1759,7 +1759,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2017-10-04-17.20.27-2000x1147.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1828,7 +1828,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screenshot-2017-10-04-18.16.08-2000x1072.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
