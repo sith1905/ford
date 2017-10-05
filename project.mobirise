@@ -1790,7 +1790,8 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Open the Vyzn app from the Main menu on each HoloLens device by doing the bloom gesture and air tapping on the Vyzn icon. After the App window appears, air tap again to place and start the app.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20170924-192635-hololens-1408x792.jpg",
