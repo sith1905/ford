@@ -2286,6 +2286,11 @@ body {
 .cid-qx8hTW2RjI blockquote {
   color: #767676;
 }
+.cid-qxe96UEPdW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-qx8bwaWdoM .navbar {
   background: #ffffff;
   transition: none;
@@ -4453,4 +4458,9 @@ body {
 }
 .cid-qx8fCNBUqa .mbr-text UL {
   text-align: left;
+}
+.cid-qxe90KUQXt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
